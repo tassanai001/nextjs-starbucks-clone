@@ -1,0 +1,15 @@
+.navbarLogo {
+  margin-right: 30px;
+}
+
+.navbarContainer {
+  padding-top: unset;
+  padding-bottom: unset;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
